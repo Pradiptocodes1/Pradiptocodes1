@@ -11,13 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Pradiptocodes1&count_private=true&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradiptocodes1&layout=compact&theme=tokyonight"><br>
 -👨🏾‍💻Tech Stacks⬇️<br><br>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px"></a>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px" style="max-width: 100%;">
-<a href="https://jquery.com/" title="jQuery"><img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="50px" height="50px"></a>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="50px" height="50px" style="max-width: 100%;"><br>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="50px" height="50px" style="max-width: 100%;">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="50px" height="50px" style="max-width: 100%;">
+
 <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50px" height="50px" style="max-width: 100%;">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="50px" height="50px" style="max-width: 100%;">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="50px" height="50px" style="max-width: 100%;">
